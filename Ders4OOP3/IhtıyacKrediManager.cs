@@ -13,7 +13,7 @@ namespace Ders4OOP3
 
         public void Hesapla()
         {
-            Console.WriteLine("Ihtıyac Kredi Ödeme planı hesaplandı");
+            Console.WriteLine("Ihtıyac Kredi Ödeme planı hesapladandı");
         }
     }
 }

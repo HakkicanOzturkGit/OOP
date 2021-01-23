@@ -6,7 +6,7 @@ namespace Ders4OOP3
     {
         public void Log()
         {
-            Console.WriteLine("Dosyaya loglandı.");
+            Console.WriteLine("Dosyaya loglandı..");
         }
     }
 }

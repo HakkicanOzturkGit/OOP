@@ -1,0 +1,11 @@
+C:\Users\hakkicannn\source\repos\ders1Class\bin\Debug\netcoreapp3.1\ders1Class.exe
+C:\Users\hakkicannn\source\repos\ders1Class\bin\Debug\netcoreapp3.1\ders1Class.deps.json
+C:\Users\hakkicannn\source\repos\ders1Class\bin\Debug\netcoreapp3.1\ders1Class.runtimeconfig.json
+C:\Users\hakkicannn\source\repos\ders1Class\bin\Debug\netcoreapp3.1\ders1Class.runtimeconfig.dev.json
+C:\Users\hakkicannn\source\repos\ders1Class\bin\Debug\netcoreapp3.1\ders1Class.dll
+C:\Users\hakkicannn\source\repos\ders1Class\bin\Debug\netcoreapp3.1\ders1Class.pdb
+C:\Users\hakkicannn\source\repos\ders1Class\obj\Debug\netcoreapp3.1\ders1Class.csprojAssemblyReference.cache
+C:\Users\hakkicannn\source\repos\ders1Class\obj\Debug\netcoreapp3.1\ders1Class.AssemblyInfoInputs.cache
+C:\Users\hakkicannn\source\repos\ders1Class\obj\Debug\netcoreapp3.1\ders1Class.AssemblyInfo.cs
+C:\Users\hakkicannn\source\repos\ders1Class\obj\Debug\netcoreapp3.1\ders1Class.dll
+C:\Users\hakkicannn\source\repos\ders1Class\obj\Debug\netcoreapp3.1\ders1Class.pdb

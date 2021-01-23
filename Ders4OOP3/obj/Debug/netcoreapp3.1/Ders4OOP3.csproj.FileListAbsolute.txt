@@ -1,0 +1,10 @@
+C:\Users\hakkicannn\source\repos\Ders4OOP3\bin\Debug\netcoreapp3.1\Ders4OOP3.exe
+C:\Users\hakkicannn\source\repos\Ders4OOP3\bin\Debug\netcoreapp3.1\Ders4OOP3.deps.json
+C:\Users\hakkicannn\source\repos\Ders4OOP3\bin\Debug\netcoreapp3.1\Ders4OOP3.runtimeconfig.json
+C:\Users\hakkicannn\source\repos\Ders4OOP3\bin\Debug\netcoreapp3.1\Ders4OOP3.runtimeconfig.dev.json
+C:\Users\hakkicannn\source\repos\Ders4OOP3\bin\Debug\netcoreapp3.1\Ders4OOP3.dll
+C:\Users\hakkicannn\source\repos\Ders4OOP3\bin\Debug\netcoreapp3.1\Ders4OOP3.pdb
+C:\Users\hakkicannn\source\repos\Ders4OOP3\obj\Debug\netcoreapp3.1\Ders4OOP3.AssemblyInfoInputs.cache
+C:\Users\hakkicannn\source\repos\Ders4OOP3\obj\Debug\netcoreapp3.1\Ders4OOP3.AssemblyInfo.cs
+C:\Users\hakkicannn\source\repos\Ders4OOP3\obj\Debug\netcoreapp3.1\Ders4OOP3.dll
+C:\Users\hakkicannn\source\repos\Ders4OOP3\obj\Debug\netcoreapp3.1\Ders4OOP3.pdb

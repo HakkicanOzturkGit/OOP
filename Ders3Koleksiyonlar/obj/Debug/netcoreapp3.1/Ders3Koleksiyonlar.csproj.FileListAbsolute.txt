@@ -1,0 +1,11 @@
+C:\Users\hakkicannn\source\repos\Ders3Koleksiyonlar\bin\Debug\netcoreapp3.1\Ders3Koleksiyonlar.exe
+C:\Users\hakkicannn\source\repos\Ders3Koleksiyonlar\bin\Debug\netcoreapp3.1\Ders3Koleksiyonlar.deps.json
+C:\Users\hakkicannn\source\repos\Ders3Koleksiyonlar\bin\Debug\netcoreapp3.1\Ders3Koleksiyonlar.runtimeconfig.json
+C:\Users\hakkicannn\source\repos\Ders3Koleksiyonlar\bin\Debug\netcoreapp3.1\Ders3Koleksiyonlar.runtimeconfig.dev.json
+C:\Users\hakkicannn\source\repos\Ders3Koleksiyonlar\bin\Debug\netcoreapp3.1\Ders3Koleksiyonlar.dll
+C:\Users\hakkicannn\source\repos\Ders3Koleksiyonlar\bin\Debug\netcoreapp3.1\Ders3Koleksiyonlar.pdb
+C:\Users\hakkicannn\source\repos\Ders3Koleksiyonlar\obj\Debug\netcoreapp3.1\Ders3Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\hakkicannn\source\repos\Ders3Koleksiyonlar\obj\Debug\netcoreapp3.1\Ders3Koleksiyonlar.AssemblyInfo.cs
+C:\Users\hakkicannn\source\repos\Ders3Koleksiyonlar\obj\Debug\netcoreapp3.1\Ders3Koleksiyonlar.dll
+C:\Users\hakkicannn\source\repos\Ders3Koleksiyonlar\obj\Debug\netcoreapp3.1\Ders3Koleksiyonlar.pdb
+C:\Users\hakkicannn\source\repos\Ders3Koleksiyonlar\obj\Debug\netcoreapp3.1\Ders3Koleksiyonlar.csprojAssemblyReference.cache

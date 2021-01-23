@@ -1,0 +1,11 @@
+C:\Users\hakkicannn\source\repos\Ders2Methods\bin\Debug\netcoreapp3.1\Ders2Methods.exe
+C:\Users\hakkicannn\source\repos\Ders2Methods\bin\Debug\netcoreapp3.1\Ders2Methods.deps.json
+C:\Users\hakkicannn\source\repos\Ders2Methods\bin\Debug\netcoreapp3.1\Ders2Methods.runtimeconfig.json
+C:\Users\hakkicannn\source\repos\Ders2Methods\bin\Debug\netcoreapp3.1\Ders2Methods.runtimeconfig.dev.json
+C:\Users\hakkicannn\source\repos\Ders2Methods\bin\Debug\netcoreapp3.1\Ders2Methods.dll
+C:\Users\hakkicannn\source\repos\Ders2Methods\bin\Debug\netcoreapp3.1\Ders2Methods.pdb
+C:\Users\hakkicannn\source\repos\Ders2Methods\obj\Debug\netcoreapp3.1\Ders2Methods.csprojAssemblyReference.cache
+C:\Users\hakkicannn\source\repos\Ders2Methods\obj\Debug\netcoreapp3.1\Ders2Methods.AssemblyInfoInputs.cache
+C:\Users\hakkicannn\source\repos\Ders2Methods\obj\Debug\netcoreapp3.1\Ders2Methods.AssemblyInfo.cs
+C:\Users\hakkicannn\source\repos\Ders2Methods\obj\Debug\netcoreapp3.1\Ders2Methods.dll
+C:\Users\hakkicannn\source\repos\Ders2Methods\obj\Debug\netcoreapp3.1\Ders2Methods.pdb

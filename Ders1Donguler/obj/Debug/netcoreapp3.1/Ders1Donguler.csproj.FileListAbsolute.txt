@@ -1,0 +1,11 @@
+C:\Users\hakkicannn\source\repos\Ders1Donguler\bin\Debug\netcoreapp3.1\Ders1Donguler.exe
+C:\Users\hakkicannn\source\repos\Ders1Donguler\bin\Debug\netcoreapp3.1\Ders1Donguler.deps.json
+C:\Users\hakkicannn\source\repos\Ders1Donguler\bin\Debug\netcoreapp3.1\Ders1Donguler.runtimeconfig.json
+C:\Users\hakkicannn\source\repos\Ders1Donguler\bin\Debug\netcoreapp3.1\Ders1Donguler.runtimeconfig.dev.json
+C:\Users\hakkicannn\source\repos\Ders1Donguler\bin\Debug\netcoreapp3.1\Ders1Donguler.dll
+C:\Users\hakkicannn\source\repos\Ders1Donguler\bin\Debug\netcoreapp3.1\Ders1Donguler.pdb
+C:\Users\hakkicannn\source\repos\Ders1Donguler\obj\Debug\netcoreapp3.1\Ders1Donguler.csprojAssemblyReference.cache
+C:\Users\hakkicannn\source\repos\Ders1Donguler\obj\Debug\netcoreapp3.1\Ders1Donguler.AssemblyInfoInputs.cache
+C:\Users\hakkicannn\source\repos\Ders1Donguler\obj\Debug\netcoreapp3.1\Ders1Donguler.AssemblyInfo.cs
+C:\Users\hakkicannn\source\repos\Ders1Donguler\obj\Debug\netcoreapp3.1\Ders1Donguler.dll
+C:\Users\hakkicannn\source\repos\Ders1Donguler\obj\Debug\netcoreapp3.1\Ders1Donguler.pdb
